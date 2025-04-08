@@ -32,7 +32,7 @@ $projects = $projectsData['projects'];
 
   <main>
     <section class="portfolio-section">
-      <div class="section-heading fade-in">
+      <div class="section-heading fade-in" style="margin-top: 150px;">
         <h2>Our Portfolio</h2>
         <div class="heading-divider"></div>
         <p class="heading-description">Check out our latest work</p>

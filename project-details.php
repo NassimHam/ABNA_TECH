@@ -50,7 +50,7 @@ if (isset($_GET['id'])) {
 
     <main>
         <div class="project-main-content">
-            <div class="project-main-image">
+            <div class="project-main-image" style="margin-top: 180px;">
                 <img src="<?php echo htmlspecialchars($project['image']); ?>" alt="<?php echo htmlspecialchars($project['title']); ?>">
             </div>
             
@@ -84,7 +84,7 @@ if (isset($_GET['id'])) {
                     <p><?php echo htmlspecialchars($project['description']); ?></p>
                     
                     <div class="tech-stack">
-                        <h4>Technologies Used</h4>
+                        <h4 style="padding-bottom:15px;">Technologies Used</h4>
                         <div class="tech-tags">
                             <?php
                             $technologies = ['HTML5', 'CSS3', 'JavaScript', 'PHP', 'MySQL'];

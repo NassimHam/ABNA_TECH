@@ -25,7 +25,7 @@
   </header>
 
   <main>
-    <div class="hero contact-hero">
+    <div class="hero contact-hero" style="background-image: url(https://img.pikbest.com/wp/202342/ethereal-blue-abstract-watercolor-background-with-delicate-textures_9943947.jpg!bw700); height: 35vh; margin-top: 140px;">
       <h1>Let's Work Together</h1>
       <p>Transform Your Ideas into Digital Reality</p>
     </div>
