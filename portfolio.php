@@ -51,7 +51,7 @@ $projects = $projectsData['projects'];
           <div class="portfolio-image">
             <img src="<?php echo htmlspecialchars($project['image']); ?>" alt="<?php echo htmlspecialchars($project['title']); ?>">
             <div class="portfolio-overlay">
-              <a href="#" class="portfolio-link">
+              <a href="project-details.php?id=<?php echo htmlspecialchars($project['id']); ?>" class="portfolio-link">
                 <i class="fas fa-link"></i>
               </a>
             </div>
