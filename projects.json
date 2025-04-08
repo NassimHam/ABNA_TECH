@@ -1,0 +1,26 @@
+
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Web Development Project",
+      "category": "web",
+      "image": "images/image1.jpg",
+      "description": "Modern web application development"
+    },
+    {
+      "id": 2,
+      "title": "Mobile App Development",
+      "category": "mobile",
+      "image": "images/image2.jpg",
+      "description": "Cross-platform mobile application"
+    },
+    {
+      "id": 3,
+      "title": "UI/UX Design",
+      "category": "design",
+      "image": "images/image3.jpg",
+      "description": "User interface and experience design"
+    }
+  ]
+}
