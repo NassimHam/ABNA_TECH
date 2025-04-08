@@ -31,6 +31,10 @@ $projects = $projectsData['projects'];
   </header>
 
   <main>
+    <div class="hero portfolio-hero">
+      <h1>Our Portfolio</h1>
+      <p>Discover our latest projects and success stories</p>
+    </div>
     <section class="portfolio-section">
       <div class="section-heading fade-in">
         <h2>Our Portfolio</h2>

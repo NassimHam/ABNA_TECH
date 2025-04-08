@@ -852,6 +852,10 @@ footer {
 /* Contact Page Styling */
 .contact-hero {
   height: 60vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('images/image3.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
 }
 
 .contact-section {
@@ -1083,6 +1087,20 @@ nav ul li a.active {
     padding: 12px 25px;
     font-size: 14px;
   }
+}
+
+/* Portfolio Hero Styling */
+.portfolio-hero {
+  height: 60vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('images/image4.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
 /* Portfolio Page Styling */
