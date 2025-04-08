@@ -26,15 +26,16 @@
 
   <main>
     <div class="hero contact-hero">
-      <h1>Contact Us</h1>
-      <p>Get in touch with us</p>
+      <h1>Let's Work Together</h1>
+      <p>Transform Your Ideas into Digital Reality</p>
     </div>
 
     <section class="contact-section">
       <div class="contact-container">
         <div class="contact-info">
           <div class="contact-card">
-            <h3>Contact Information</h3>
+            <h3>Ready to Start Your Project?</h3>
+            <p class="contact-intro">Our team of experts is here to help bring your vision to life. Whether you need a custom web application, mobile app, or digital transformation solution, we're ready to collaborate.</p>
             <ul class="contact-details">
               <li>
                 <i class="far fa-envelope"></i>
@@ -49,6 +50,13 @@
                   <h4>Phone</h4>
                   <p>+212 602536302</p>
                   <p>+212 628568219</p>
+                </div>
+              </li>
+              <li>
+                <i class="fas fa-map-marker-alt"></i>
+                <div>
+                  <h4>Location</h4>
+                  <p>Casablanca, Morocco</p>
                 </div>
               </li>
             </ul>
@@ -73,6 +81,12 @@
           </form>
           <div id="formResponse"></div>
         </div>
+      </div>
+    </section>
+
+    <section class="map-section">
+      <div class="map-container">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106376.72691561705!2d-7.6894361705725615!3d33.57240299999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda7cd4778aa113b%3A0xb06c1d84f310fd3!2sCasablanca%2C%20Morocco!5e0!3m2!1sen!2s!4v1690558789259!5m2!1sen!2s" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       </div>
     </section>
   </main>
