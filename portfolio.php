@@ -19,7 +19,7 @@ $projects = $projectsData['projects'];
 <body>
   <header>
     <div class="logo">
-      <a href="#"><img src="https://abnatech.ma/nobg.png" alt="ABNA TECH Logo"></a>
+      <a href="index.php"><img src="https://abnatech.ma/nobg.png" alt="ABNA TECH Logo"></a>
     </div>
     <nav>
       <ul>
